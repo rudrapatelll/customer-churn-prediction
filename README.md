@@ -207,8 +207,7 @@ In this project, we use statistical testing to analyze the key factors of custom
 
 - Conduct price discrimination analysis to further determine the price point for each contract type and service.
 
-## About the Developer
-Rudra Patel is an AI Automation Engineer with over 2 years of professional experience in developing data-driven solutions. With a technical background in Python, SQL, and machine learning frameworks like TensorFlow and PyTorch, he focuses on building robust classification models and automation pipelines.
+
 
 - Email: patel.rudra@ufl.edu
 - LinkedIn: https://www.linkedin.com/in/rudrapatell26/
